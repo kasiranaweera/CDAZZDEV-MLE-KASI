@@ -2,7 +2,7 @@
 
 # Task 2 — Generative AI: Mental Health Triage Fine-Tuning Pipeline
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13Nsr9-NEXRNUgtAS5BncQJB5FB2Dmg7s?usp=sharing)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://python.org)
 [![HuggingFace](https://img.shields.io/badge/🤗%20Model-mental--health--triage--phi3--qlora-yellow)](https://huggingface.co/kasi-ranaweera/mental-health-triage-phi3-qlora)
 [![W&B](https://img.shields.io/badge/W%26B-Training%20Run-orange)](https://wandb.ai/kasi-ranaweera/mental-health-triage-finetune)

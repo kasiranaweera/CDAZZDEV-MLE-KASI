@@ -33,7 +33,9 @@ CDAZZDEV-MLE-KasiRanaweera/
 │   │   └── NVDA_2026-05-11.json
 │   ├── screenshots/
 │   │   ├── dashboard_screenshot.png
-│   │   └── langsmith_trace.png
+│   │   ├── langsmith_trace-1.png
+|   |   ├── langsmith_trace-2.png
+|   |   └── langsmith_trace-3.png
 │   └── README.md
 ├── CITATIONS.md
 ├── REFLECTION.md
@@ -47,7 +49,7 @@ CDAZZDEV-MLE-KasiRanaweera/
 | # | Domain | Deliverable | Notebook |
 |---|--------|-------------|----------|
 | 1 | Financial AI | LLM-powered equity research pipeline with structured outputs | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kasiranaweera/CDAZZDEV-MLE-KASI/blob/main/task1_financial/CDAZZDEV_Task1_Financial_AI.ipynb) |
-| 2 | Generative AI | Domain-specific QLoRA fine-tuning pipeline with rigorous evaluation | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID_HERE) |
+| 2 | Generative AI | Domain-specific QLoRA fine-tuning pipeline with rigorous evaluation | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13Nsr9-NEXRNUgtAS5BncQJB5FB2Dmg7s?usp=sharing) |
 | 3 | Agentic Workflows | Multi-agent financial research system with memory and observability | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kasiranaweera/CDAZZDEV-MLE-KASI/blob/main/task3_agentic/CDAZZDEV_Task3_Agentic_Workflows.ipynb) |
 
 ---
