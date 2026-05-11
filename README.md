@@ -1,4 +1,4 @@
-<dev><center>
+<div align="center">
 
 # CDAZZDEV-MLE-KasiRanaweera
 
@@ -8,7 +8,7 @@ Demonstrating production-level financial AI, generative AI fine-tuning, and agen
 [![Groq](https://img.shields.io/badge/LLM-Groq%20LLaMA--3.3--70b-orange)](https://console.groq.com)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-</center></dev>
+</dev>
 
 ---
 

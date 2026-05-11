@@ -1,4 +1,4 @@
-<dev><center>
+<div align="center">
 
 # Task 3 — Agentic Workflows: Multi-Agent Financial Research System
 
@@ -8,7 +8,7 @@
 [![Groq](https://img.shields.io/badge/Groq-LLaMA--3.3--70b-orange)](https://console.groq.com)
 [![LangSmith](https://img.shields.io/badge/LangSmith-Tracing-green)](https://smith.langchain.com)
 
-</center></dev>
+</dev>
 
 ---
 
